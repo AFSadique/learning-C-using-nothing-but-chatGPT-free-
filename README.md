@@ -1,2 +1,5 @@
-# learning-C-using-nothing-but-chatGPT-free-
-I wanted to learn C and do graphics programing. so, I thought lets learn it by chatting with Chat GPT.
+# Learning C Using Nothing but ChatGPT (Free)
+
+This repository documents my journey of learning **C** using only the free version of **ChatGPT**.
+
+My goal is to master **C**, learn the **Vulkan Graphics API**, and build my own **rendering engine** from scratch.
