@@ -16,7 +16,7 @@ double price;
 int main(){
 
 static const int number_of_Books = 5;
-    struct book library[number_of_Books];
+struct book library[number_of_Books];
 int max = 0 ;
 
     for (int i =0; i < number_of_Books; i++) {
@@ -38,7 +38,7 @@ int max = 0 ;
         printf("the price of the %dth book is: %.2f\n\n", (i+1),library[i].price);
 
         if (library[i].price >= library[max].price) {
-max = i;
+            max = i;
         }
 
     }
